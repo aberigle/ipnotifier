@@ -1,0 +1,11 @@
+account gmail {
+set folder=imaps://_USERNAME_@imap.gmail.com
+set password-_USERNAME_@imap.gmail.com="_PASSWORD_"
+set record=+Sent
+set from="_YOURNAME_ <_USERNAME_@gmail.com>"
+set smtp-use-starttls
+set smtp=smtp://smtp.gmail.com:587
+set smtp-auth=login
+set smtp-auth-user=_USERNAME_@gmail.com
+set smtp-auth-password="_PASSWORD_"
+}
