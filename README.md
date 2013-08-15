@@ -1,7 +1,7 @@
 ipnotifier
 ==========
 
-ipnotifier is a simple bash script that will check if your public ip has changed since last check, and send an email to the `_EMAILRECIPENT_` if it has.
+ipnotifier is a simple bash script that will check if your public ip has changed since last time and send an email to the `_EMAILRECIPENT_` if it has.
 
 ###How it works
 
